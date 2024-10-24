@@ -1,3 +1,6 @@
+//Lab Task 6
+//Tadisa Jakarasi
+
 import java.util.*;
 
 public class FindCostApp
